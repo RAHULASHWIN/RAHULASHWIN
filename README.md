@@ -13,6 +13,9 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br>
+<br>
+
 - 🔭 I’m currently learing React,Javascript,Nodejs and Firebase
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🤔 I’m looking for help with developers to give me intern on React.
